@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @z3vk3
-- 👀 I’m interested in python
-- 📫 If you want to reach me dm me on discord z3vk3. 
-
-<!---
-z3vk3/z3vk3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Discord BoostBot is bot that boost you discord server.
+It can boost max 14 times and it undetected.
+You will not need any discord nitro tokens or anything add on this exe file.
+And last thing it 100% for education purpose only.
